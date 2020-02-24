@@ -5,7 +5,10 @@ date: "2/23/2020"
 output:
   html_document: 
     keep_md: yes
+    toc: yes
   pdf_document: default
+editor_options: 
+  chunk_output_type: console
 ---
 
 *  Load the Data
